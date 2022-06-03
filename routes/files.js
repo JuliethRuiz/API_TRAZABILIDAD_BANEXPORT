@@ -50,7 +50,7 @@ router.post("/", async (req, res, next) => {
     const resultId = await getNextValue("Id_File");
     const id = resultId.Id
     const dataSoportes = Soportes(req)
-    console.log(dataSoportes)
+    // console.log(dataSoportes)
     const data = { 
       id: id,
       ...dataSoportes[0]

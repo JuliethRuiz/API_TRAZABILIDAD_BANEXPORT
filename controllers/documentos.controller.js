@@ -15,7 +15,7 @@ exports.recibos = async (req, res) => {
         const idNext = await getNextSequenceValue("Id_Recibo", modeloIncrement);
         const id = idNext.sequence_value;
         req.body.Id = `RB${id.toString().padStart(6, "0")}`;
-        console.log(req.body);
+        // console.log(req.body);
         const newRecibo = new documentos(req.body);
         const data = await newRecibo.save();
         res.json(data);

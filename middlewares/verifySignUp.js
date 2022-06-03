@@ -9,9 +9,7 @@ console.log("req",req.body)
 const nombre = await User.findOne({  nombreUsuario: req.body.nombreUsuario.toLowerCase()});
 const email = await User.findOne({  email: req.body.email.toLowerCase()});
 const id = await User.findOne({  idUsuario: req.body.idUsuario});
-console.log("1.", nombre)
-console.log("2.", email)
-console.log("3.", id)
+
 try {
     if(nombre || email || id){
         console.log("def")
