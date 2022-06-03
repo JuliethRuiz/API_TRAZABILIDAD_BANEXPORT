@@ -11,7 +11,7 @@ const authJwt=require("./middlewares/authJwt");
 //Configuracion de las bases de datos
 const configBase = require("./utils/config.json")
 
-const port = 3001;
+const port =8085;
 const mongoose = require("mongoose"); 
 const { initial } = require('./utils/initApp')
 
