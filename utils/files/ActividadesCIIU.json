@@ -1,0 +1,6243 @@
+
+[
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1011,
+      "Descripcion": "Procesamiento y conservación de carne y productos cárnicos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1012,
+      "Descripcion": "Procesamiento y conservación de pescados, crustáceos y moluscos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1030,
+      "Descripcion": "Elaboración de aceites y grasas de origen vegetal y animal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1051,
+      "Descripcion": "Elaboración de productos de molinería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1052,
+      "Descripcion": "Elaboración de almidones y productos derivados del almidón",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1062,
+      "Descripcion": "Descafeinado, tostión y molienda del café",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1063,
+      "Descripcion": "Elaboración de otros derivados del café",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1071,
+      "Descripcion": "Elaboración y refinación de azúcar",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1072,
+      "Descripcion": "Elaboración de panela",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1081,
+      "Descripcion": "Elaboración de productos de panadería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1082,
+      "Descripcion": "Elaboración de cacao, chocolate y productos de confitería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1083,
+      "Descripcion": "Elaboración de macarrones, fideos, alcuzcuz y productos farináceos similares",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1084,
+      "Descripcion": "Elaboración de comidas y platos preparados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1089,
+      "Descripcion": "Elaboración de otros productos alimenticios n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1090,
+      "Descripcion": "Elaboración de alimentos preparados para animales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1410,
+      "Descripcion": "Confección de prendas de vestir, excepto prendas de piel",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1521,
+      "Descripcion": "Fabricación de calzado de cuero y piel, con cualquier tipo de suela",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 1522,
+      "Descripcion": "Fabricación de otros tipos de calzado, excepto calzado de cuero y piel",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 10201,
+      "Descripcion": "Procesamiento y conservación de frutas, legumbres, hortalizas y tubérculos (excepto elaboración de jugos de frutas)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 10401,
+      "Descripcion": "Elaboración de productos lácteos (excepto bebidas)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 14201,
+      "Descripcion": "Fabricación de prendas de vestir de piel",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 14301,
+      "Descripcion": "Fabricación de prendas de vestir  de punto y ganchillo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 101,
+      "CodigoActividad": 58113,
+      "Descripcion": "Edición y publicación de libros (Tarifa especial para los contribuyentes que cumplen condiciones del Acuerdo 98 de 2003)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 2410,
+      "Descripcion": "Industrias básicas de hierro y de acero",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 2431,
+      "Descripcion": "Fundición de hierro y de acero",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2432,
+      "Descripcion": "Fundición de metales no ferrosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 2910,
+      "Descripcion": "Fabricación de vehículos automotores y sus motores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 2920,
+      "Descripcion": "Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 2930,
+      "Descripcion": "Fabricación de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3011,
+      "Descripcion": "Construcción de barcos y de estructuras flotantes",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3012,
+      "Descripcion": "Construcción de embarcaciones de recreo y deporte",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3020,
+      "Descripcion": "Fabricación de locomotoras y de material rodante para ferrocarriles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3030,
+      "Descripcion": "Fabricación de aeronaves, naves espaciales y de maquinaria conexa",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3040,
+      "Descripcion": "Fabricación de vehículos militares de combate",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3091,
+      "Descripcion": "Fabricación de motocicletas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3092,
+      "Descripcion": "Fabricación de bicicletas y de sillas de ruedas para personas con discapacidad",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 102,
+      "CodigoActividad": 3099,
+      "Descripcion": "Fabricación de otros tipos de equipo de transporte n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 510,
+      "Descripcion": "Extracción de hulla (carbón de piedra)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 520,
+      "Descripcion": "Extracción de carbón lignito",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 610,
+      "Descripcion": "Extracción de petróleo crudo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 620,
+      "Descripcion": "Extracción de gas natural",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 710,
+      "Descripcion": "Extracción de minerales de hierro",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 721,
+      "Descripcion": "Extracción de minerales de uranio y de torio",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 722,
+      "Descripcion": "Extracción de oro y otros metales preciosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 723,
+      "Descripcion": "Extracción de minerales de níquel",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 729,
+      "Descripcion": "Extracción de otros minerales metalíferos no ferrosos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 811,
+      "Descripcion": "Extracción de piedra, arena, arcillas comunes, yeso y anhidrita",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 812,
+      "Descripcion": "Extracción de arcillas de uso industrial, caliza, caolín y bentonitas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 820,
+      "Descripcion": "Extracción de esmeraldas, piedras preciosas y semipreciosas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 891,
+      "Descripcion": "Extracción de minerales para la fabricación de abonos y productos químicos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 892,
+      "Descripcion": "Extracción de halita (sal)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 899,
+      "Descripcion": "Extracción de otros minerales no metálicos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1101,
+      "Descripcion": "Destilación, rectificación y mezcla de bebidas alcohólicas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1102,
+      "Descripcion": "Elaboración de bebidas fermentadas no destiladas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1103,
+      "Descripcion": "Producción de malta, elaboración de cervezas y otras bebidas malteadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1104,
+      "Descripcion": "Elaboración de bebidas no alcohólicas, producción de aguas minerales y de otras aguas embotelladas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1200,
+      "Descripcion": "Elaboración de productos de tabaco",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1311,
+      "Descripcion": "Preparación e hilatura de fibras textiles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1312,
+      "Descripcion": "Tejeduría de productos textiles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1313,
+      "Descripcion": "Acabado de productos textiles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1391,
+      "Descripcion": "Fabricación de tejidos de punto y ganchillo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1392,
+      "Descripcion": "Confección de artículos con materiales textiles, excepto prendas de vestir",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1393,
+      "Descripcion": "Fabricación de tapetes y alfombras para pisos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1394,
+      "Descripcion": "Fabricación de cuerdas, cordeles, cables, bramantes y redes",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1399,
+      "Descripcion": "Fabricación de otros artículos textiles n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1511,
+      "Descripcion": "Curtido y recurtido de cueros; recurtido y teñido de pieles.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1512,
+      "Descripcion": "Fabricación de artículos de viaje, bolsos de mano y artículos similares elaborados en cuero, y fabricación de artículos de talabartería y guarnicionería.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1513,
+      "Descripcion": "Fabricación de artículos de viaje, bolsos de mano y artículos similares; artículos de talabartería y guarnicionería elaborados en otros materiales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1523,
+      "Descripcion": "Fabricación de partes del calzado",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1610,
+      "Descripcion": "Aserrado, acepillado e impregnación de la madera",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1620,
+      "Descripcion": "Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1630,
+      "Descripcion": "Fabricación de partes y piezas de madera, de carpintería y ebanistería para la construcción y para edificios",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1640,
+      "Descripcion": "Fabricación de recipientes de madera",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1690,
+      "Descripcion": "Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1701,
+      "Descripcion": "Fabricación de pulpas (pastas) celulósicas; papel y cartón",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1702,
+      "Descripcion": "Fabricación de papel y cartón ondulado (corrugado); fabricación de envases, empaques y de embalajes de papel y cartón.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1709,
+      "Descripcion": "Fabricación de otros artículos de papel y cartón",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1910,
+      "Descripcion": "Fabricación de productos de hornos de coque",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1921,
+      "Descripcion": "Fabricación de productos de la refinación del petróleo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 1922,
+      "Descripcion": "Actividad de mezcla de combustibles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2011,
+      "Descripcion": "Fabricación de sustancias y productos químicos básicos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2012,
+      "Descripcion": "Fabricación de abonos y compuestos inorgánicos nitrogenados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2013,
+      "Descripcion": "Fabricación de plásticos en formas primarias",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2014,
+      "Descripcion": "Fabricación de caucho sintético en formas primarias",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2021,
+      "Descripcion": "Fabricación de plaguicidas y otros productos químicos de uso agropecuario",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2022,
+      "Descripcion": "Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2023,
+      "Descripcion": "Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2029,
+      "Descripcion": "Fabricación de otros productos químicos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2030,
+      "Descripcion": "Fabricación de fibras sintéticas y artificiales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2100,
+      "Descripcion": "Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos de uso farmacéutico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.4,
+          "Tarifa_2022": 11.4,
+          "Tarifa_2023": 11.76,
+          "Tarifa_2024": 12.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2211,
+      "Descripcion": "Fabricación de llantas y neumáticos de caucho",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2212,
+      "Descripcion": "Reencauche de llantas usadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2219,
+      "Descripcion": "Fabricación de formas básicas de caucho y otros productos de caucho n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2219,
+      "Descripcion": "Fabricación de formas básicas de caucho y otros productos de caucho n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2221,
+      "Descripcion": "Fabricación de formas básicas de plástico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2229,
+      "Descripcion": "Fabricación de artículos de plástico n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2310,
+      "Descripcion": "Fabricación de vidrio y productos de vidrio",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2391,
+      "Descripcion": "Fabricación de productos refractarios",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2392,
+      "Descripcion": "Fabricación de materiales de arcilla para la construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2393,
+      "Descripcion": "Fabricación de otros productos de cerámica y porcelana",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2394,
+      "Descripcion": "Fabricación de cemento, cal y yeso",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2395,
+      "Descripcion": "Fabricación de artículos de hormigón, cemento y yeso",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2396,
+      "Descripcion": "Corte, tallado y acabado de la piedra",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2399,
+      "Descripcion": "Fabricación de otros productos minerales no metálicos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2421,
+      "Descripcion": "Industrias básicas de metales preciosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2429,
+      "Descripcion": "Industrias básicas de otros metales no ferrosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2511,
+      "Descripcion": "Fabricación de productos metálicos para uso estructural",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2512,
+      "Descripcion": "Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para el envase o transporte de mercancías",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2513,
+      "Descripcion": "Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2520,
+      "Descripcion": "Fabricación de armas y municiones",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2591,
+      "Descripcion": "Forja, prensado, estampado y laminado de metal; pulvimetalurgia",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2593,
+      "Descripcion": "Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2599,
+      "Descripcion": "Fabricación de otros productos elaborados de metal n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2610,
+      "Descripcion": "Fabricación de componentes y tableros electrónicos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2620,
+      "Descripcion": "Fabricación de computadoras y de equipo periférico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2630,
+      "Descripcion": "Fabricación de equipos de comunicación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2640,
+      "Descripcion": "Fabricación de aparatos electrónicos de consumo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2651,
+      "Descripcion": "Fabricación de equipo de medición, prueba, navegación y control",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2652,
+      "Descripcion": "Fabricación de relojes",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2660,
+      "Descripcion": "Fabricación de equipo de irradiación y equipo electrónico de uso médico y terapéutico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2670,
+      "Descripcion": "Fabricación de instrumentos ópticos y equipo fotográfico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2680,
+      "Descripcion": "Fabricación de soportes magnéticos y ópticos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2711,
+      "Descripcion": "Fabricación de motores, generadores y transformadores eléctricos.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2712,
+      "Descripcion": "Fabricación de aparatos de distribución y control de la energía eléctrica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2720,
+      "Descripcion": "Fabricación de pilas, baterías y acumuladores eléctricos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2731,
+      "Descripcion": "Fabricación de hilos y cables eléctricos y de fibra óptica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2732,
+      "Descripcion": "Fabricación de dispositivos de cableado",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2740,
+      "Descripcion": "Fabricación de equipos eléctricos de iluminación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2750,
+      "Descripcion": "Fabricación de aparatos de uso domestico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2790,
+      "Descripcion": "Fabricación de otros tipos de equipo eléctrico n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2811,
+      "Descripcion": "Fabricación de motores, turbinas, y partes para motores de combustión interna",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2812,
+      "Descripcion": "Fabricación de equipos de potencia hidráulica y neumática",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2813,
+      "Descripcion": "Fabricación de otras bombas, compresores, grifos y válvulas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2814,
+      "Descripcion": "Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2815,
+      "Descripcion": "Fabricación de hornos, hogares y quemadores industriales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2816,
+      "Descripcion": "Fabricación de equipo de elevación y manipulación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2817,
+      "Descripcion": "Fabricación de maquinaria y equipo de oficina (excepto computadoras y equipo periférico)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2818,
+      "Descripcion": "Fabricación de herramientas manuales con motor",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2819,
+      "Descripcion": "Fabricación de otros tipos de maquinaria y equipo de uso general n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2821,
+      "Descripcion": "Fabricación de maquinaria agropecuaria y forestal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2822,
+      "Descripcion": "Fabricación de máquinas formadoras de metal y de máquinas herramienta",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2823,
+      "Descripcion": "Fabricación de maquinaria para la metalurgia",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2824,
+      "Descripcion": "Fabricación de maquinaria para explotación de minas y canteras y para obras de construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2825,
+      "Descripcion": "Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2826,
+      "Descripcion": "Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 2829,
+      "Descripcion": "Fabricación de otros tipos de maquinaria y equipo de uso especial n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3110,
+      "Descripcion": "Fabricación de muebles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3120,
+      "Descripcion": "Fabricación de colchones y somieres",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3210,
+      "Descripcion": "Fabricación de joyas, bisutería y artículos conexos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3220,
+      "Descripcion": "Fabricación de instrumentos musicales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3240,
+      "Descripcion": "Fabricación de juegos, juguetes y rompecabezas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3250,
+      "Descripcion": "Fabricación de instrumentos, aparatos y materiales médicos y odontológicos (incluido mobiliario)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3290,
+      "Descripcion": "Otras industrias manufactureras n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3511,
+      "Descripcion": "Generación de energía eléctrica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3512,
+      "Descripcion": "Transmisión de energía eléctrica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3821,
+      "Descripcion": "Tratamiento y disposición de desechos no peligrosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3822,
+      "Descripcion": "Tratamiento y disposición de desechos peligrosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3830,
+      "Descripcion": "Recuperación de materiales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 5812,
+      "Descripcion": "Edición de directorios y listas de correo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 5819,
+      "Descripcion": "Otros trabajos de edición",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 5820,
+      "Descripcion": "Edición de programas de informática (software)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 5911,
+      "Descripcion": "Actividades de producción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión (excepto programación de televisión)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 5912,
+      "Descripcion": "Actividades de postproducción de películas cinematográficas, videos, programas, anuncios y comerciales de televisión  (excepto programación de televisión)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 5920,
+      "Descripcion": "Actividades de grabación de sonido y edición de música",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 10202,
+      "Descripcion": "Elaboración de jugos de frutas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 10402,
+      "Descripcion": "Elaboración de bebidas lácteas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 14202,
+      "Descripcion": "Fabricación de artículos de piel (excepto prendas de vestir)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 14302,
+      "Descripcion": "Fabricación de artículos de punto y ganchillo (excepto prendas de vestir)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 3230,
+      "Descripcion": "Fabricación de artículos y equipo para la práctica del deporte   (excepto prendas de vestir y calzado)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 35201,
+      "Descripcion": "Producción de gas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 103,
+      "CodigoActividad": 36001,
+      "Descripcion": "Captación y tratamiento de agua",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 104,
+      "CodigoActividad": 58112,
+      "Descripcion": "Edición y publicación de libros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8,
+          "Tarifa_2022": 8,
+          "Tarifa_2023": 8,
+          "Tarifa_2024": 8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 4631,
+      "Descripcion": "Comercio al por mayor de productos alimenticios",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 4721,
+      "Descripcion": "Comercio al por menor de productos agrícolas para el consumo en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 4722,
+      "Descripcion": "Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 4723,
+      "Descripcion": "Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 4729,
+      "Descripcion": "Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 46201,
+      "Descripcion": "Comercio al por mayor de materias primas agrícolas en bruto (alimentos)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 46451,
+      "Descripcion": "Comercio al por mayor de productos farmacéuticos y medicinales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47111,
+      "Descripcion": "Comercio al por menor en establecimientos no especializados con surtido compuesto principalmente por alimentos, bebidas o tabaco (excepto licores y cigarrillos)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47192,
+      "Descripcion": "Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por drogas, medicamentos, textos escolares, libros y cuadernos.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47611,
+      "Descripcion": "Comercio al por menor y al por mayor  de libros, textos escolares y cuadernos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47731,
+      "Descripcion": "Comercio al por menor de productos farmacéuticos y medicinales en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47811,
+      "Descripcion": "Comercio al por menor de alimentos en puestos de venta móviles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47911,
+      "Descripcion": "Comercio al por menor de alimentos y productos agrícolas en bruto; venta de textos escolares y libros (incluye cuadernos escolares); venta de drogas y medicamentos realizado a través de internet",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47921,
+      "Descripcion": "Comercio al por menor de alimentos y productos agrícolas en bruto; venta de textos escolares y libros (incluye cuadernos escolares); venta de drogas y medicamentos realizado a través de casas de venta o por correo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 201,
+      "CodigoActividad": 47991,
+      "Descripcion": "Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados de textos escolares y libros (incluye cuadernos escolares); venta de drogas y medicamentos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 4511,
+      "Descripcion": "Comercio de vehículos automotores nuevos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 4512,
+      "Descripcion": "Comercio de vehículos automotores usados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 45411,
+      "Descripcion": "Comercio de motocicletas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 46631,
+      "Descripcion": "Comercio al por mayor de materiales de construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 47521,
+      "Descripcion": "Comercio al por menor de materiales de construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 47912,
+      "Descripcion": "Comercio al por menor y al por mayor de madera y materiales para construcción; venta de automotores (incluidas motocicletas)  realizado a través de internet",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 47922,
+      "Descripcion": "Comercio al por menor y al por mayor de madera y materiales para construcción; venta de automotores (incluidas motocicletas)  realizado a través de casas de venta o por correo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 202,
+      "CodigoActividad": 47992,
+      "Descripcion": "Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados de  materiales para construcción; venta de automotores (incluidas motocicletas)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 4731,
+      "Descripcion": "Comercio al por menor de combustible para automotores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 46322,
+      "Descripcion": "Comercio al por mayor de licores y cigarrillos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 46492,
+      "Descripcion": "Venta de joyas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 46612,
+      "Descripcion": "Comercio al por mayor de combustibles  derivados del petróleo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 47112,
+      "Descripcion": "Comercio al por menor en establecimientos no especializados con surtido compuesto principalmente  por licores y cigarrillos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 47242,
+      "Descripcion": "Comercio al por menor de licores y cigarrillos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 47813,
+      "Descripcion": "Comercio al por menor de cigarrillos y licores en puestos de venta móviles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 47913,
+      "Descripcion": "Comercio al por menor de cigarrillos y licores; venta de combustibles derivados del petróleo y venta de joyas  realizado a través de internet",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 47923,
+      "Descripcion": "Comercio al por menor de cigarrillos y licores; venta de combustibles derivados del petróleo y venta de joyas  realizado a través de casas de venta o por correo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 203,
+      "CodigoActividad": 47993,
+      "Descripcion": "Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados de cigarrillos y licores; venta de combustibles derivados del petróleo y venta de joyas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 3514,
+      "Descripcion": "Comercialización de energía eléctrica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4530,
+      "Descripcion": "Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4641,
+      "Descripcion": "Comercio al por mayor de productos textiles y productos confeccionados para uso doméstico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4642,
+      "Descripcion": "Comercio al por mayor de prendas de vestir",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4643,
+      "Descripcion": "Comercio al por mayor de calzado",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4644,
+      "Descripcion": "Comercio al por mayor de aparatos y equipo de uso doméstico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4651,
+      "Descripcion": "Comercio al por mayor de computadores, equipo periférico y programas de informática",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4652,
+      "Descripcion": "Comercio al por mayor de equipo, partes y piezas electrónicos y de telecomunicaciones",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4653,
+      "Descripcion": "Comercio al por mayor de maquinaria y equipo agropecuarios",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4659,
+      "Descripcion": "Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4662,
+      "Descripcion": "Comercio al por mayor de metales y productos metalíferos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4664,
+      "Descripcion": "Comercio al por mayor de productos químicos básicos, cauchos y plásticos en formas primarias y productos químicos de uso agropecuario",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4665,
+      "Descripcion": "Comercio al por mayor de desperdicios, desechos y chatarra",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4669,
+      "Descripcion": "Comercio al por mayor de otros productos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4690,
+      "Descripcion": "Comercio al por mayor no especializado",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4732,
+      "Descripcion": "Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4741,
+      "Descripcion": "Comercio al por menor de computadores, equipos periféricos, programas de informática y equipos de telecomunicaciones en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4742,
+      "Descripcion": "Comercio al por menor de equipos y aparatos de sonido y de video, en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4751,
+      "Descripcion": "Comercio al por menor de productos textiles en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4753,
+      "Descripcion": "Comercio al por menor de tapices, alfombras y cubrimientos para paredes y pisos en establecimientos especializados.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4754,
+      "Descripcion": "Comercio al por menor de electrodomésticos y gasodomesticos de uso doméstico, muebles y equipos de iluminación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4755,
+      "Descripcion": "Comercio al por menor de artículos y utensilios de uso domestico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4759,
+      "Descripcion": "Comercio al por menor de otros artículos domésticos en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4762,
+      "Descripcion": "Comercio al por menor de artículos deportivos, en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4769,
+      "Descripcion": "Comercio al por menor de otros artículos culturales y de entretenimiento n.c.p. en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4771,
+      "Descripcion": "Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel) en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4772,
+      "Descripcion": "Comercio al por menor de todo tipo de calzado y artículos de cuero y sucedáneos del cuero en establecimientos especializados.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4774,
+      "Descripcion": "Comercio al por menor de otros productos nuevos en establecimientos especializados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4775,
+      "Descripcion": "Comercio al por menor de artículos de segunda mano",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4782,
+      "Descripcion": "Comercio al por menor de productos textiles, prendas de vestir y calzado, en puestos de venta móviles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 4789,
+      "Descripcion": "Comercio al por menor de otros productos en puestos de venta móviles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 45412,
+      "Descripcion": "Comercio de partes, piezas y accesorios de motocicletas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 46202,
+      "Descripcion": "Comercio al por mayor de materias primas pecuarias y animales vivos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 46321,
+      "Descripcion": "Comercio al por mayor de bebidas y tabaco (diferentes a licores y cigarrillos)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 46452,
+      "Descripcion": "Comercio al por mayor de productos cosméticos y de tocador (excepto productos farmacéuticos y medicinales)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 46491,
+      "Descripcion": "Comercio al por mayor de otros utensilios domésticos n.c.p. (excepto joyas)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 46611,
+      "Descripcion": "Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y productos conexos (excepto combustibles derivados del petróleo)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 46632,
+      "Descripcion": "Comercio al por mayor de  artículos de ferretería, pinturas, productos de vidrio, equipo y materiales de fontanería y calefacción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47191,
+      "Descripcion": "Comercio al por menor en establecimientos no especializados con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general) y bebidas y tabaco (excepto drogas, medicamentos, textos escolares, libros y cuadernos.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47241,
+      "Descripcion": "Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados  (excepto licores y cigarrillos)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47522,
+      "Descripcion": "Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados (excepto materiales de construcción)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47612,
+      "Descripcion": "Comercio al por menor de periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados (excepto libros, textos escolares y cuadernos)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47732,
+      "Descripcion": "Comercio al por menor de productos cosméticos y artículos de tocador en establecimientos especializados (excepto productos  farmacéuticos y medicinales)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47812,
+      "Descripcion": "Comercio al por menor de  bebidas y tabaco en puestos de venta móviles (excepto licores y cigarrillos)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47914,
+      "Descripcion": "Comercio al por menor de demás productos n.c.p.  realizado a través de internet",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47924,
+      "Descripcion": "Comercio al por menor de demás productos n.c.p.  realizado a través de casas de venta o por correo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 47994,
+      "Descripcion": "Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados de demás productos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 204,
+      "CodigoActividad": 64992,
+      "Descripcion": "Actividades comerciales de las casas de empeño o compraventa",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 11.04,
+          "Tarifa_2022": 11.04,
+          "Tarifa_2023": 11.04,
+          "Tarifa_2024": 11.04
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 4911,
+      "Descripcion": "Transporte férreo de pasajeros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 4912,
+      "Descripcion": "Transporte férreo de carga",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 4921,
+      "Descripcion": "Transporte de pasajeros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 4922,
+      "Descripcion": "Transporte mixto",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 4923,
+      "Descripcion": "Transporte de carga por carretera",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 4930,
+      "Descripcion": "Transporte por tuberías",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5011,
+      "Descripcion": "Transporte de pasajeros marítimo y de cabotaje",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5012,
+      "Descripcion": "Transporte de carga marítimo y de cabotaje",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5021,
+      "Descripcion": "Transporte fluvial de pasajeros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5022,
+      "Descripcion": "Transporte fluvial de carga",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5111,
+      "Descripcion": "Transporte aéreo nacional de pasajeros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5112,
+      "Descripcion": "Transporte aéreo internacional de pasajeros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5121,
+      "Descripcion": "Transporte aéreo nacional de carga",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5122,
+      "Descripcion": "Transporte aéreo internacional de carga",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5222,
+      "Descripcion": "Actividades de puertos y servicios complementarios para el transporte acuático",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 5813,
+      "Descripcion": "Edición de periódicos, revistas y otras publicaciones periódicas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 6010,
+      "Descripcion": "Actividades de programación y transmisión en el servicio de radiodifusión sonora",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 58111,
+      "Descripcion": "Servicio de edición de libros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 301,
+      "CodigoActividad": 60201,
+      "Descripcion": "Actividades de programación de televisión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 4.14,
+          "Tarifa_2022": 4.14,
+          "Tarifa_2023": 4.14,
+          "Tarifa_2024": 4.14
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4111,
+      "Descripcion": "Construcción de edificios residenciales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4112,
+      "Descripcion": "Construcción de edificios no residenciales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4210,
+      "Descripcion": "Construcción de carreteras y vías de ferrocarril",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.12,
+          "Tarifa_2022": 7.12,
+          "Tarifa_2023": 7.36,
+          "Tarifa_2024": 7.6
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4220,
+      "Descripcion": "Construcción de proyectos de servicio público",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.12,
+          "Tarifa_2022": 7.12,
+          "Tarifa_2023": 7.36,
+          "Tarifa_2024": 7.6
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4290,
+      "Descripcion": "Construcción de otras obras de ingeniería civil",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.12,
+          "Tarifa_2022": 7.12,
+          "Tarifa_2023": 7.36,
+          "Tarifa_2024": 7.6
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4311,
+      "Descripcion": "Demolición",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4312,
+      "Descripcion": "Preparación del terreno",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4321,
+      "Descripcion": "Instalaciones eléctricas de la construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4322,
+      "Descripcion": "Instalaciones de fontanería, calefacción y aire acondicionado de la construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4329,
+      "Descripcion": "Otras instalaciones especializadas de la construcción",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4330,
+      "Descripcion": "Terminación y acabado de edificios y obras de ingeniería civil",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.12,
+          "Tarifa_2022": 7.12,
+          "Tarifa_2023": 7.36,
+          "Tarifa_2024": 7.6
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 4390,
+      "Descripcion": "Otras actividades especializadas para la construcción de edificios y obras de ingeniería civil",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.12,
+          "Tarifa_2022": 7.12,
+          "Tarifa_2023": 7.36,
+          "Tarifa_2024": 7.6
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 5914,
+      "Descripcion": "Actividades de exhibición de películas cinematográficas y videos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 6202,
+      "Descripcion": "Actividades de consultoría informática y actividades de administración de instalaciones informáticas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 39002,
+      "Descripcion": "Actividades de saneamiento ambiental y otros servicios de gestión de desechos prestados por contratistas de construcción, constructores y urbanizadores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 6.9,
+          "Tarifa_2022": 6.9,
+          "Tarifa_2023": 6.9,
+          "Tarifa_2024": 6.9
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 69101,
+      "Descripcion": "Actividades jurídicas como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 69201,
+      "Descripcion": "Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 70101,
+      "Descripcion": "Actividades de administración empresarial como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 70201,
+      "Descripcion": "Actividades de consultoría de gestión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 71101,
+      "Descripcion": "Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 71201,
+      "Descripcion": "Ensayos y análisis técnicos como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 72101,
+      "Descripcion": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería  como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 72201,
+      "Descripcion": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades  como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 73201,
+      "Descripcion": "Estudios de mercado y realización de encuestas de opinión pública como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 74101,
+      "Descripcion": "Actividades especializadas de diseño como consultoría profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 302,
+      "CodigoActividad": 74901,
+      "Descripcion": "Otras actividades profesionales, científicas y técnicas n.c.p. como consultoría profesional (incluye actividades de periodistas)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 8.66,
+          "Tarifa_2022": 8.66,
+          "Tarifa_2023": 8.66,
+          "Tarifa_2024": 8.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5511,
+      "Descripcion": "Alojamiento en hoteles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5512,
+      "Descripcion": "Alojamiento en aparta-hoteles",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5513,
+      "Descripcion": "Alojamiento en centros vacacionales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5514,
+      "Descripcion": "Alojamiento rural",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5519,
+      "Descripcion": "Otros tipos de alojamientos para visitantes",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5520,
+      "Descripcion": "Actividades de zonas de camping y parques para vehículos recreacionales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5530,
+      "Descripcion": "Servicio por horas  de alojamiento",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5590,
+      "Descripcion": "Otros tipos de alojamiento n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5611,
+      "Descripcion": "Expendio a la mesa de comidas preparadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5612,
+      "Descripcion": "Expendio por autoservicio de comidas preparadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5613,
+      "Descripcion": "Expendio de comidas preparadas en cafeterías",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5619,
+      "Descripcion": "Otros tipos de expendio de comidas preparadas n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5621,
+      "Descripcion": "Catering para eventos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5629,
+      "Descripcion": "Actividades de otros servicios de comidas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 5630,
+      "Descripcion": "Expendio de bebidas alcohólicas para el consumo dentro del establecimiento",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 8010,
+      "Descripcion": "Actividades de seguridad privada",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 8020,
+      "Descripcion": "Actividades de servicios de sistemas de seguridad",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 8030,
+      "Descripcion": "Actividades de detectives e investigadores privados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 303,
+      "CodigoActividad": 64993,
+      "Descripcion": "Servicios de las casas de empeño o compraventas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 13.8,
+          "Tarifa_2022": 13.8,
+          "Tarifa_2023": 13.8,
+          "Tarifa_2024": 13.8
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 161,
+      "Descripcion": "Actividades de apoyo a la agricultura",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 162,
+      "Descripcion": "Actividades de apoyo a la ganadería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 164,
+      "Descripcion": "Tratamiento de semillas para propagación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 240,
+      "Descripcion": "Servicios de apoyo a la silvicultura",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 910,
+      "Descripcion": "Actividades de apoyo para la extracción de petróleo y de gas natural",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 990,
+      "Descripcion": "Actividades de apoyo para otras actividades de explotación de minas y canteras",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 1061,
+      "Descripcion": "Trilla de café",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 1811,
+      "Descripcion": "Actividades de impresión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 1812,
+      "Descripcion": "Actividades de servicios relacionados con la impresión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 1820,
+      "Descripcion": "Producción de copias a partir de grabaciones originales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 2592,
+      "Descripcion": "Tratamiento y revestimiento de metales; mecanizado",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3311,
+      "Descripcion": "Mantenimiento y reparación especializado de productos elaborados en metal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3312,
+      "Descripcion": "Mantenimiento y reparación especializado de maquinaria y equipo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3313,
+      "Descripcion": "Mantenimiento y reparación especializado de equipo electrónico y óptico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3314,
+      "Descripcion": "Mantenimiento y reparación especializado de equipo eléctrico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3315,
+      "Descripcion": "Mantenimiento y reparación especializado de equipo de transporte, excepto los vehículos automotores, motocicletas y bicicletas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3319,
+      "Descripcion": "Mantenimiento y reparación de otros tipos de equipos y sus componentes n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3320,
+      "Descripcion": "Instalación especializada de maquinaria y equipo industrial",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3513,
+      "Descripcion": "Distribución de energía eléctrica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3530,
+      "Descripcion": "Suministro de vapor y aire acondicionado",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3700,
+      "Descripcion": "Evacuación y tratamiento de aguas residuales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3811,
+      "Descripcion": "Recolección de desechos no peligrosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 3812,
+      "Descripcion": "Recolección de desechos peligrosos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 4520,
+      "Descripcion": "Mantenimiento y reparación de vehículos automotores.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 4542,
+      "Descripcion": "Mantenimiento y reparación de motocicletas y de sus partes y piezas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 4610,
+      "Descripcion": "Comercio al por mayor a cambio de una retribución o por contrata",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5210,
+      "Descripcion": "Almacenamiento y depósito",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5221,
+      "Descripcion": "Actividades de estaciones, vías y servicios complementarios para el transporte terrestre",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5223,
+      "Descripcion": "Actividades de aeropuertos, servicios de navegación aérea y demás actividades conexas al transporte aéreo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5224,
+      "Descripcion": "Manipulación de carga",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5229,
+      "Descripcion": "Otras actividades complementarias al transporte",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5310,
+      "Descripcion": "Actividades postales nacionales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5320,
+      "Descripcion": "Actividades de mensajería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 5913,
+      "Descripcion": "Actividades de distribución de películas cinematográficas, videos, programas, anuncios y comerciales de televisión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6110,
+      "Descripcion": "Actividades de telecomunicaciones alámbricas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.98,
+          "Tarifa_2022": 9.98,
+          "Tarifa_2023": 10.3,
+          "Tarifa_2024": 10.62
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6120,
+      "Descripcion": "Actividades de telecomunicaciones inalámbricas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.98,
+          "Tarifa_2022": 9.98,
+          "Tarifa_2023": 10.3,
+          "Tarifa_2024": 10.62
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6130,
+      "Descripcion": "Actividades de telecomunicación satelital",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6190,
+      "Descripcion": "Otras actividades de telecomunicaciones",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6201,
+      "Descripcion": "Actividades de desarrollo de sistemas informáticos (planificación, análisis, diseño, programación, pruebas)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6209,
+      "Descripcion": "Otras actividades de tecnologías de información y actividades de servicios informáticos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6311,
+      "Descripcion": "Procesamiento de datos, alojamiento (hosting) y actividades relacionadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6312,
+      "Descripcion": "Portales Web",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6391,
+      "Descripcion": "Actividades de agencias de noticias",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6399,
+      "Descripcion": "Otras actividades de servicio de información n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6612,
+      "Descripcion": "Corretaje de valores y de contratos de productos básicos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6613,
+      "Descripcion": "Otras actividades relacionadas con el mercado de valores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6629,
+      "Descripcion": "Evaluación de riesgos y daños, y otras actividades de servicios auxiliares",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 66112,
+      "Descripcion": "Actividades de las bolsas de valores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6810,
+      "Descripcion": "Actividades inmobiliarias realizadas con bienes propios o arrendados",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 6820,
+      "Descripcion": "Actividades inmobiliarias realizadas a cambio de una retribución o por contrata",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7310,
+      "Descripcion": "Publicidad",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7420,
+      "Descripcion": "Actividades de fotografía",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7500,
+      "Descripcion": "Actividades veterinarias",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7710,
+      "Descripcion": "Alquiler y arrendamiento de vehículos automotores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7721,
+      "Descripcion": "Alquiler y arrendamiento de equipo recreativo y deportivo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7722,
+      "Descripcion": "Alquiler de videos y discos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7729,
+      "Descripcion": "Alquiler y arrendamiento de otros efectos personales y enseres domésticos n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7730,
+      "Descripcion": "Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7740,
+      "Descripcion": "Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7810,
+      "Descripcion": "Actividades de agencias de empleo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7820,
+      "Descripcion": "Actividades de agencias de empleo temporal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7830,
+      "Descripcion": "Otras actividades de suministro de recurso humano",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7911,
+      "Descripcion": "Actividades de las agencias de viaje",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7912,
+      "Descripcion": "Actividades de operadores turísticos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 7990,
+      "Descripcion": "Otros servicios de reserva y actividades relacionadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8110,
+      "Descripcion": "Actividades combinadas de apoyo a instalaciones",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8121,
+      "Descripcion": "Limpieza general interior de edificios",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8129,
+      "Descripcion": "Otras actividades de limpieza de edificios e instalaciones industriales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8130,
+      "Descripcion": "Actividades de paisajismo y servicios de mantenimiento conexos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8211,
+      "Descripcion": "Actividades combinadas de servicios administrativos de oficina",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8219,
+      "Descripcion": "Fotocopiado, preparación de documentos y otras actividades especializadas de apoyo a oficina",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8220,
+      "Descripcion": "Actividades de centros de llamadas (Call center)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8230,
+      "Descripcion": "Organización de convenciones y eventos comerciales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8291,
+      "Descripcion": "Actividades de agencias de cobranza y oficinas de calificación crediticia",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8292,
+      "Descripcion": "Actividades de envase y empaque",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8299,
+      "Descripcion": "Otras actividades de servicio de apoyo a las empresas n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8541,
+      "Descripcion": "Educación técnica profesional",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8542,
+      "Descripcion": "Educación tecnológica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8543,
+      "Descripcion": "Educación de instituciones universitarias o de escuelas tecnológicas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8544,
+      "Descripcion": "Educación de universidades",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8552,
+      "Descripcion": "Enseñanza deportiva y recreativa",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8553,
+      "Descripcion": "Enseñanza cultural",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8559,
+      "Descripcion": "Otros tipos de educación n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8560,
+      "Descripcion": "Actividades de apoyo a la educación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8610,
+      "Descripcion": "Actividades de hospitales y clínicas, con internación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8720,
+      "Descripcion": "Actividades de atención residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8730,
+      "Descripcion": "Actividades de atención en instituciones para el cuidado de personas mayores y/o discapacitadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8790,
+      "Descripcion": "Otras actividades de atención en instituciones con alojamiento",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8810,
+      "Descripcion": "Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 8890,
+      "Descripcion": "Otras actividades de asistencia social sin alojamiento",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9321,
+      "Descripcion": "Actividades de parques de atracciones y parques temáticos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9511,
+      "Descripcion": "Mantenimiento y reparación de computadores y de equipo periférico",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9512,
+      "Descripcion": "Mantenimiento y reparación de equipos de comunicación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9521,
+      "Descripcion": "Mantenimiento y reparación de aparatos electrónicos de consumo",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9522,
+      "Descripcion": "Mantenimiento y reparación de aparatos domésticos y equipos domésticos y de jardinería",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9523,
+      "Descripcion": "Reparación de calzado y artículos de cuero",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9524,
+      "Descripcion": "Reparación de muebles y accesorios para el hogar",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9529,
+      "Descripcion": "Mantenimiento y reparación de otros efectos personales y enseres domésticos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9601,
+      "Descripcion": "Lavado y limpieza, incluso la limpieza en seco, de productos textiles y de piel",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9602,
+      "Descripcion": "Peluquería y otros tratamientos de belleza",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9603,
+      "Descripcion": "Pompas fúnebres y actividades relacionadas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9609,
+      "Descripcion": "Otras actividades de servicios personales n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 35202,
+      "Descripcion": "Distribución de combustibles gaseosos por tuberías",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 36002,
+      "Descripcion": "Distribución de agua",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 39001,
+      "Descripcion": "Actividades de saneamiento ambiental y otros servicios de gestión de desechos (excepto los servicios prestados por contratistas de construcción, constructores y urbanizadores)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 60202,
+      "Descripcion": "Actividades de transmisión de televisión",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 69102,
+      "Descripcion": "Actividades jurídicas en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 69202,
+      "Descripcion": "Actividades de contabilidad, teneduría de libros, auditoría financiera y asesoría tributaria en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 70102,
+      "Descripcion": "Actividades de administración empresarial en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 70202,
+      "Descripcion": "Actividades de  gestión en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 71102,
+      "Descripcion": "Actividades de arquitectura e ingeniería y otras actividades conexas en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 71202,
+      "Descripcion": "Ensayos y análisis técnicos como consultoría profesional en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 72102,
+      "Descripcion": "Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería  en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 72202,
+      "Descripcion": "Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades  en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 73202,
+      "Descripcion": "Estudios de mercado y realización de encuestas de opinión pública en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 74102,
+      "Descripcion": "Actividades especializadas de diseño en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 74902,
+      "Descripcion": "Otras actividades profesionales, científicas y técnicas n.c.p. en el ejercicio de una profesión liberal",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7.66,
+          "Tarifa_2022": 7.66,
+          "Tarifa_2023": 7.66,
+          "Tarifa_2024": 7.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 85232,
+      "Descripcion": "Educación de formación laboral",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 85511,
+      "Descripcion": "Educación académica no formal (excepto programas de educación básica primaria, básica secundaria y media no gradual con fines de validación)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 85512,
+      "Descripcion": "Educación académica no formal impartida mediante programas de educación básica primaria, básica secundaria y media no gradual con fines de validación",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 86211,
+      "Descripcion": "Actividades de la práctica médica, sin internación (excepto actividades de promoción y prevención que realicen las entidades e instituciones promotoras y prestadoras de servicios de salud de naturaleza pública o privada, con recursos que provengan  del Sistema General  de Seguridad Social en  Salud.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 86221,
+      "Descripcion": "Actividades de la práctica odontológica, sin internación (excepto actividades de promoción y prevención que realicen las entidades e instituciones promotoras y prestadoras de servicios de salud de naturaleza pública o privada, con recursos que provengan  del Sistema General  de Seguridad Social en  Salud.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 86911,
+      "Descripcion": "Actividades de apoyo diagnóstico (excepto actividades de promoción y prevención que realicen las entidades e instituciones promotoras y prestadoras de servicios de salud de naturaleza pública o privada, con recursos que provengan  del Sistema General  de Seguridad Social en  Salud.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 86921,
+      "Descripcion": "Actividades de apoyo terapéutico (excepto actividades de promoción y prevención que realicen las entidades e instituciones promotoras y prestadoras de servicios de salud de naturaleza pública o privada, con recursos que provengan  del Sistema General  de Seguridad Social en  Salud.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 86991,
+      "Descripcion": "Otras actividades de atención de la salud humana (excepto actividades de promoción y prevención que realicen las entidades e instituciones promotoras y prestadoras de servicios de salud de naturaleza pública o privada, con recursos que provengan  del Sistema General  de Seguridad Social en  Salud.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 87101,
+      "Descripcion": "Actividades de atención residencial medicalizada de tipo general (excepto actividades de promoción y prevención que realicen las entidades e instituciones promotoras y prestadoras de servicios de salud de naturaleza pública o privada, con recursos que provengan  del Sistema General  de Seguridad Social en  Salud.)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 92001,
+      "Descripcion": "Actividades de juegos de destreza, habilidad, conocimiento y fuerza",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 93291,
+      "Descripcion": "Otras actividades recreativas y de esparcimiento n.c.p. (excepto juegos de suerte y azar, discotecas y similares )",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9411,
+      "Descripcion": "Actividades de asociaciones empresariales y de empleadores",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 304,
+      "CodigoActividad": 9499,
+      "Descripcion": "Actividades de otras asociaciones n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 9.66,
+          "Tarifa_2022": 9.66,
+          "Tarifa_2023": 9.66,
+          "Tarifa_2024": 9.66
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 8511,
+      "Descripcion": "Educación de la primera infancia",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7,
+          "Tarifa_2022": 7,
+          "Tarifa_2023": 7,
+          "Tarifa_2024": 7
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 8512,
+      "Descripcion": "Educación preescolar",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7,
+          "Tarifa_2022": 7,
+          "Tarifa_2023": 7,
+          "Tarifa_2024": 7
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 8513,
+      "Descripcion": "Educación básica primaria",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7,
+          "Tarifa_2022": 7,
+          "Tarifa_2023": 7,
+          "Tarifa_2024": 7
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 8521,
+      "Descripcion": "Educación básica secundaria",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7,
+          "Tarifa_2022": 7,
+          "Tarifa_2023": 7,
+          "Tarifa_2024": 7
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 8522,
+      "Descripcion": "Educación media académica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7,
+          "Tarifa_2022": 7,
+          "Tarifa_2023": 7,
+          "Tarifa_2024": 7
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 85231,
+      "Descripcion": "Educación media técnica",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 305,
+      "CodigoActividad": 8530,
+      "Descripcion": "Establecimientos que combinan diferentes niveles de educación inicial, preescolar, básica primaria, básica secundaria y media",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 7,
+          "Tarifa_2022": 7,
+          "Tarifa_2023": 7,
+          "Tarifa_2024": 7
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6411,
+      "Descripcion": "Banca Central",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6412,
+      "Descripcion": "Bancos comerciales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6421,
+      "Descripcion": "Actividades de las corporaciones financieras",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6422,
+      "Descripcion": "Actividades de las compañías de financiamiento",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6423,
+      "Descripcion": "Banca de segundo piso",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6424,
+      "Descripcion": "Actividades de las cooperativas financieras",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6431,
+      "Descripcion": "Fideicomisos, fondos y entidades financieras similares",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6491,
+      "Descripcion": "Leasing financiero (arrendamiento financiero)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6492,
+      "Descripcion": "Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6493,
+      "Descripcion": "Actividades de compra de cartera o factoring",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6494,
+      "Descripcion": "Otras actividades de distribución de fondos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6495,
+      "Descripcion": "Instituciones especiales oficiales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6511,
+      "Descripcion": "Seguros generales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6512,
+      "Descripcion": "Seguros de vida",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6513,
+      "Descripcion": "Reaseguros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6514,
+      "Descripcion": "Capitalización",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 0,
+          "Tarifa_2022": 0,
+          "Tarifa_2023": 0,
+          "Tarifa_2024": 0
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6521,
+      "Descripcion": "Servicios de seguros sociales de salud",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6522,
+      "Descripcion": "Servicios de seguros sociales de riesgos profesionales",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6532,
+      "Descripcion": "Régimen de ahorro individual (RAI)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6619,
+      "Descripcion": "Otras actividades auxiliares de las actividades de servicios financieros n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6621,
+      "Descripcion": "Actividades de agentes y corredores de seguros",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6630,
+      "Descripcion": "Actividades de administración de fondos",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6614,
+      "Descripcion": "Actividades de las casas de cambio",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 6615,
+      "Descripcion": "Actividades de los profesionales de compra y venta de divisas",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 64991,
+      "Descripcion": "Otras actividades de servicio financiero, excepto las de seguros y pensiones n.c.p.",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    },
+    {
+      "AgrupacionTarifa": 401,
+      "CodigoActividad": 66111,
+      "Descripcion": "Administración de mercados financieros (excepto actividades de las bolsas de valores)",
+      "Tarifas": [
+        {
+          "Tarifa_2021": 12,
+          "Tarifa_2022": 12,
+          "Tarifa_2023": 12.54,
+          "Tarifa_2024": 13.1
+        }
+      ]
+    }
+  ]

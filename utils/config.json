@@ -1,0 +1,22 @@
+[
+    {
+        "sede": "eventos",
+        "bd": "EventosCafe18" 
+    },
+    {
+        "sede": "oficina",
+        "bd": "OficinaPrincipal"
+    },
+    {
+        "sede": "rosales",
+        "bd": "Cafe18"
+    },
+    {
+        "sede": "aeropuerto",
+        "bd": "aeropuerto"
+    },
+    {
+        "sede": "chico",
+        "bd": "pos96"
+    }
+]
