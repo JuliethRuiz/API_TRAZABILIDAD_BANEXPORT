@@ -27,7 +27,8 @@ exports.signup = async (req, res) => {
 
   user.save((err, usuario) => {
     if (err) {
-      res.status(500).send({ message: "El usuario ya existe" });
+      console.log(err)
+      res.status(500).send({ message: "El usuario ya existe 1" });
       return;
     }
 
@@ -157,17 +158,16 @@ exports.sendMail = async (infoMail) => {
 exports.resetPassword = async (req, res, next) => {
 
   try {
-  let conn = connection(req);
-    const modeloUsuarios= conn.model("usuarios", require("../models/user.model"));
-    const usuario = await modeloUsuarios.findOne({ email: req.body.email })
+  
+    const usuario = await Usuario.findOne({ email: req.body.email })
     if (!usuario) {
       return res.send({ success:false,statusLogin: false, message: "Usuario no encontrado" });
     }
 
     const payload = { sub: usuario.idUsuario };
     const token = jwt.sign(payload, config.config.apiKey, { expiresIn: '15min' });
-    const link = `${config.config.urlServidor}/${req.params.sede}/change-password?token=${token}`;
-    await modeloUsuarios.updateOne({ _id: usuario._id }, { $set: { recoveryTokenField: token } }).catch(error => { console.log(error) });
+    const link = `${config.config.urlServidor}/change-password?token=${token}`;
+    await Usuario.updateOne({ _id: usuario._id }, { $set: { recoveryTokenField: token } }).catch(error => { console.log(error) });
     
     
     const mail = {
@@ -180,16 +180,16 @@ exports.resetPassword = async (req, res, next) => {
     res.json(rta);
 
   } catch (error) {
+    console.log(error)
     res.json(error)
   }
 }
 
 exports.changePassword = async (req, res, next) => {
   try {
-    let conn = connection(req);
-    const modeloUsuarios= conn.model("usuarios", require("../models/user.model"));
+    
     const payload = jwt.verify(req.body.token, config.config.apiKey);
-    const usuario = await modeloUsuarios.findOne({ idUsuario: payload.sub })
+    const usuario = await Usuario.findOne({ idUsuario: payload.sub })
 
     if (!usuario) {
       return res.status(404)
@@ -203,9 +203,10 @@ exports.changePassword = async (req, res, next) => {
     }
   
     const hash = await bcrypt.hash(req.body.password.trim(), 10);  
-    modeloUsuarios.updateOne({ _id: usuario._id }, { $set: { recoveryTokenField: null, password: hash } }).catch(error => { console.log(error) });
+    Usuario.updateOne({ _id: usuario._id }, { $set: { recoveryTokenField: null, password: hash } }).catch(error => { console.log(error) });
     res.json({ success: true, message: 'Contraseña Actualizada' });
   } catch (error) {
+    console.log(error)
     res.json({ success: false, message: `Ha ocurrido un error, intente de nuevo` })
   }
 }

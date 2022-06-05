@@ -4,16 +4,13 @@ const ROLES = require("../models/role.model");
 
 const checkDuplicate = async(req, res, next)=>{
 
-console.log("req",req.body)
-
 const nombre = await User.findOne({  nombreUsuario: req.body.nombreUsuario.toLowerCase()});
 const email = await User.findOne({  email: req.body.email.toLowerCase()});
 const id = await User.findOne({  idUsuario: req.body.idUsuario});
 
 try {
     if(nombre || email || id){
-        console.log("def")
-       res.status(400).send({status: false,message: "El usuario ya existe 1"})
+       res.status(400).send({status: false,message: "El usuario ya existe"})
         return
     }
     next()

@@ -37,10 +37,10 @@ router.get("/:sede/ad/:id", [authJwt.admin(["admin", "operativo"])],(req, res) =
 //   res.send({ res: "Servidor Banexport" });
 // });
 //Rutas solicitud cambio contraseña
-router.post("/reset/:sede",  controller.resetPassword);
+router.post("/reset",  controller.resetPassword);
 
 //Rutas actualización contraseña
-router.post("/change/:sede",  controller.changePassword);
+router.post("/change",  controller.changePassword);
 
 
 

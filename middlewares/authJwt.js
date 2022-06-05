@@ -8,8 +8,6 @@ const verifyToken = (req, res, next) => {
   const authHeader = req.headers["authorization"];
 
   const token = authHeader && authHeader.split(" ")[1];
- console.log("auth header",req.headers)
-
   
   if (!token ) {
     return res.status(401).send({ success:false, message: "Token no encontrado" });
@@ -36,7 +34,6 @@ const verifyToken = (req, res, next) => {
 
 const admin = (permisos) => {
   return(req, res, next)=>{
- console.log(req)
   const user = req.params.id || req.user._id
 
   Usuario.findById(user).exec((err, usuario) => {
